@@ -1,5 +1,5 @@
 <div class="gallery">
-    <h2>Galeria 2.0</h2>
+    <h2>Galeria 3.0</h2>
     <div class="gallery__container">
         <div class="gallery__img">
             <img src="https://picsum.photos/300/300?random=1" alt="">
