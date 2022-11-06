@@ -8,6 +8,7 @@
     <title>Web GitHub</title>
 </head>
 <body>
-    <h1>inicio</h1>
+  <?php include "views/navbar.php" ?>
+  <?php include "views/gallery.php" ?>
 </body>
 </html>
