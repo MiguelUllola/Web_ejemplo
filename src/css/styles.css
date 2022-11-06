@@ -3,3 +3,39 @@
     padding: 0;
     box-sizing: border-box;
 }
+/*Section del parrafo */
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+.parr__title{
+    text-align: center;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+} 
+.parr__text{
+    text-align: justify;
+    font-size: 1.1rem;
+}
+section{
+    padding-top: 15px;
+}
+/* Setion del footer */
+footer{
+    background-color: #111;
+    padding: 15px 0;
+}
+.footer__item{
+    color: #4d8cb7;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.footer__item__link{
+   padding: 0 10px;
+}

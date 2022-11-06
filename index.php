@@ -8,6 +8,7 @@
     <title>Web GitHub</title>
 </head>
 <body>
-    <h1>inicio</h1>
+    <?php include "views/section_par.php"?>
+    <?php include "views/footer.php"?>
 </body>
 </html>
