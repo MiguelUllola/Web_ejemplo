@@ -8,7 +8,12 @@
     <title>Web GitHub</title>
 </head>
 <body>
+<<<<<<< HEAD
   <?php include "views/navbar.php" ?>
   <?php include "views/gallery.php" ?>
+=======
+    <?php include "views/section_par.php"?>
+    <?php include "views/footer.php"?>
+>>>>>>> Miguel
 </body>
 </html>
