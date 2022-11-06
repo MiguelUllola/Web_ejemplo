@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,13 +8,15 @@
     <link rel="stylesheet" href="src/css/styles.css">
     <title>Web GitHub</title>
 </head>
+
 <body>
-<<<<<<< HEAD
-  <?php include "views/navbar.php" ?>
-  <?php include "views/gallery.php" ?>
-=======
-    <?php include "views/section_par.php"?>
-    <?php include "views/footer.php"?>
->>>>>>> Miguel
+
+    <?php include "views/navbar.php" ?>
+
+    <?php include "views/section_par.php" ?>
+    <?php include "views/gallery.php" ?>
+    <?php include "views/footer.php" ?>
+
 </body>
+
 </html>
